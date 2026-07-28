@@ -1,6 +1,6 @@
 
 
-#Factorial of number
+# Factorial of a number
 
 num = int(input("Enter a number: "))
 fact = 1
@@ -12,7 +12,10 @@ else:
     while i <= num:
         fact *= i
         i += 1
+
     print(f"Factorial of {num} is {fact}")
+
+
 
 
 
