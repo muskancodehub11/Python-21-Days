@@ -1,4 +1,4 @@
-# Day 04 - Python Lists & Matrix Practice
+# Day 04 - Python Lists, Matrix & Mini Project
 
 ## 📚 Topics Covered
 
@@ -14,6 +14,9 @@
 - Matrix Transpose
 - Matrix Flattening
 - Custom Sorting Logic
+- Functions
+- Dictionaries
+- CRUD Operations (Create, Read, Update, Delete)
 
 ---
 
@@ -35,6 +38,32 @@
 
 ---
 
+## 💼 Mini Project
+
+### 🎓 Student Management System
+
+A menu-driven Python application that allows users to manage student records.
+
+### Features
+
+- ➕ Add Student
+- 📋 View All Students
+- 🔍 Search Student by Roll Number
+- ✏️ Update Student Details
+- ❌ Delete Student
+- 🚪 Exit Program
+
+### Concepts Used
+
+- Functions
+- Lists of Dictionaries
+- Loops
+- Conditional Statements
+- User Input Handling
+- CRUD Operations
+
+---
+
 ## 🎯 Concepts Practiced
 
 - Nested Lists
@@ -45,19 +74,26 @@
 - Matrix Manipulation
 - Custom Sorting
 - String & Number Processing
+- Dictionary Operations
+- Functions
+- Menu-Driven Programming
+- CRUD Logic
 
 ---
 
 ## 🚀 Learning Outcome
 
-By completing these exercises, I strengthened my understanding of:
+By completing these exercises and the mini project, I strengthened my understanding of:
 
 - Working with nested lists and matrices
 - Writing concise code using list comprehensions
-- Using `zip()` to combine lists
-- Solving logic-based problems with nested loops
-- Sorting data using custom criteria
-- Processing strings and numeric characters together
+- Using `zip()` to combine multiple lists
+- Solving logic-based problems using nested loops
+- Implementing matrix operations
+- Applying custom sorting techniques
+- Managing data using dictionaries
+- Building a complete menu-driven Python application
+- Performing CRUD operations on real-world data
 
 ---
 
@@ -69,6 +105,11 @@ By completing these exercises, I strengthened my understanding of:
 
 ## 📅 Progress
 
-**Day 04 of my Python Learning Journey**
+**Day 04 of my #Python21Days Challenge**
 
-**Programs Completed:** 13 ✅
+### ✅ Completed
+
+- 📘 13 Practice Programs
+- 🎓 1 Mini Project (Student Management System)
+
+**Total Tasks Completed:** **14 ✅**
